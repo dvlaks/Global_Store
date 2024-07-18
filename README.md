@@ -36,13 +36,12 @@ Operational Efficiency: Analyzed average delivery times and return order statist
 ## 🖥️ Power BI Dashboard
 The Power BI dashboard includes interactive visualizations and reports to help stakeholders make data-driven decisions.
 
-📈 How to View the Dashboard : https://lnkd.in/dB_GZmF6
 
 🔗 Project Repository
 Explore the full project on GitHub for details on the Power BI reports, data sources, and more.
 
 💬 Let's Connect!
-I’m always open to discussing data analysis, business intelligence, and Power BI projects. Feel free to connect with me on [LINKEDIN](https://www.linkedin.com/in/nishigandhianalyst/)
- or reach out via [email](nishigandhi1998@gmail.com).
+I’m always open to discussing data analysis, business intelligence, and Power BI projects. Feel free to connect with me on [LINKEDIN](https://www.linkedin.com/in/aakash-verma-669062269/)
+ or reach out via [email](kumawataksh112@gmail.com).
 
 #PowerBI #DataAnalysis #BusinessIntelligence #SalesAnalysis #DataVisualization #DataScience #Analytics #SQL
